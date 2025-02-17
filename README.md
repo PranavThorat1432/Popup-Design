@@ -14,9 +14,13 @@ This project is a **modern popup design** that displays a thank-you message when
 
 ## 🚀 Features
 ✅ Smooth popup animation
+
 ✅ Fully responsive design
+
 ✅ Click-based trigger mechanism
+
 ✅ Minimalist and clean UI
+
 ✅ Lightweight and fast
 
 ---
@@ -81,7 +85,9 @@ okBtn.addEventListener("click", () => {
 
 ## 🌟 Future Improvements
 🔹 Add fade-in/out animation
+
 🔹 Implement a countdown timer for auto-close
+
 🔹 Enhance accessibility with ARIA attributes
 
 ---
