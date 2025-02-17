@@ -38,7 +38,7 @@ Popup-Design/
 ---
 
 ## 📸 Screenshot
-![Popup Design](preview.png) *(Add a preview image of your project here)*
+![pop1](https://github.com/user-attachments/assets/df7053ca-1aba-4933-b7d4-6f758603cebb)
 
 ---
 
