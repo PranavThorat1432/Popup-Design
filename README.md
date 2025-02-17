@@ -34,6 +34,10 @@ Popup-Design/
 │── 404-tick.png      # Tick icon for the popup
 │── README.md         # Project documentation
 ```
+---
+
+## Live Preview
+[Click Here](https://popup-design-vert.vercel.app/)
 
 ---
 
